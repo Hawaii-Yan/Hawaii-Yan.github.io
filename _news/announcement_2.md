@@ -1,32 +1,29 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: 🏝️Formally invited to join the Computational Communication Collaboratory.
+date: 2023-09-26 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Computational Communication Collaboratory (CCC, C-Cube, or C3) was established in February 2015 by the School of Journalism and Communication, Nanjing University. The mission of the center is to uncover the computational gene of human communication behaviors. The center supplies a series of workshops, including Introduction to Computational Communication, Data Journalism, Computational Advertising, and Web Data Collection and Analysis.
 
 ***
+<p>Email: computational.communication@gmail.com</p>
+<p>Address: A307 Zijin Building, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China, 210023</p>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+**Related Matrix (click on the links to jump)：**
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li><A href="https://computational-communication.com/" target=_blank>计算传播学实验中心</A></li>
+    <li><A href="https://www.douban.com/group/webmining/" target=_blank>计算传播学小组</A></li>
+    <li><A href="https://www.douban.com/group/socratesacademy/" target=_blank>苏格拉底学园</A></li>
+    <li><A href="https://www.douban.com/group/topic/174440775/?_i=7704316pOWT4K8" target=_blank>第谷读书会</A></li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+![image](https://github.com/Hawaii-Yan/Hawaii-Yan.github.io/assets/143163240/29dad8ee-6577-4abc-9546-339edee8e089)
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
