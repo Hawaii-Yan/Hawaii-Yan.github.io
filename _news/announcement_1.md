@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-9-8 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🏄Admitted to the School of Journalism and Communication at NJU, the road to a hero begins.
