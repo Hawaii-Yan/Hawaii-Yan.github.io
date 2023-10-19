@@ -6,7 +6,7 @@ subtitle: 天上依然有星空，天下不必有我。
 
 profile:
   align: right
-  image: 松鼠.jpg
+  image: songshu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>163 Xianlin Road, Qixia District</p>
