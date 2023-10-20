@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: 鼠鼠的命，也是命！
+subtitle: 二〇二三年，我二十二岁了。
+subtitle：我开始在人前饶舌，又在饶舌者面前假装沉默。
 
 profile:
   align: right
   image: songshu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>163 Xianlin Road, Qixia District</p>
+    <p>163 Xianlin Road</p>
+    <p>Qixia District</p>
     <p>xiaokaiyan23@smail.nju.edu.cn</p>
     
 
