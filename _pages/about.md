@@ -20,8 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-二〇二三年，我二十二岁了。
-我开始在人前饶舌，又在饶舌者面前假装沉默。
+<p>二〇二三年，我二十二岁了。</p>
+<p>我开始在人前饶舌，又在饶舌者面前假装沉默。</p>
 
 Xiaokai YAN, a native of Zhuzhou, Hunan, goes by the English nickname Mark, though it may change in the future. He is currently pursuing a Master's degree in Journalism and Communication at Nanjing University in Jiangsu province.
 
