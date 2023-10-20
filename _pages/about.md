@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 二〇二三年，我二十二岁了。
-<p>我开始在人前饶舌，又在饶舌者面前假装沉默。</p>
+subtitle: 鼠鼠的命，也是命！
 
 profile:
   align: right
