@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🏝️Formally invited to join the Computational Communication Collaboratory.
-date: 2023-09-26 16:11:00-0400
+date: 2023-10-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
