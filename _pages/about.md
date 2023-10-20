@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 天上依然有星空，天下不必有我。
+subtitle: 二〇二三年，我二十二岁了。我开始在人前饶舌，又在饶舌者面前假装沉默。
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Xiaokai YAN, a native of Zhuzhou, Hunan. He goes by the English nickname Mark, although this is subject to change in the future. He is currently pursuing a Master's degree in Journalism and Communication at Nanjing University in Jiangsu province. 
+Xiaokai YAN, a native of Zhuzhou, Hunan, goes by the English nickname Mark, though it may change in the future. He is currently pursuing a Master's degree in Journalism and Communication at Nanjing University in Jiangsu province.
 
 His primary research focus lies in computational narrative and sociological theories (which often leave him scratching his head). In his spare time, he enjoys exploring Zen Buddhism (don't worry, he's just bragging). 
 
