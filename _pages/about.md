@@ -9,9 +9,7 @@ profile:
   image: songshu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>163 Xianlin Road</p>
-    <p>Qixia District</p>
-    <p>xiaokaiyan23@smail.nju.edu.cn</p>
+    
     
 
 news: true  # includes a list of news items
@@ -20,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>二〇二三年，我二十二岁了。</p>
-<p>我开始在人前饶舌，又在饶舌者面前假装沉默。</p>
+<p>我是容器。</p>
+<p>混沌的来去生灭，并非我。</p>
 
 Xiaokai YAN, a native of Zhuzhou, Hunan, goes by the English nickname Mark, though it may change in the future. He is currently pursuing a Master's degree in Journalism and Communication at Nanjing University in Jiangsu province.
 
@@ -29,4 +27,4 @@ His primary research focus lies in computational narrative and sociological theo
 
 However, above all else, he is the proud owner of a Shiba Inu named Nai Cha, and he once had a Chinese village dog named Duo Duo. Indeed, nothing is more important to him than these furry companions.
 
-<img src="/assets/img/fahuajing.JPG" align = "middle" width ="800px">
+<img src="/assets/img/fahuajing.jpg" align = "middle" width ="800px">
