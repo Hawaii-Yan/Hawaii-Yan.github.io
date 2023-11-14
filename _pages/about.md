@@ -28,3 +28,5 @@ Xiaokai YAN, a native of Zhuzhou, Hunan, goes by the English nickname Mark, thou
 His primary research focus lies in computational narrative and sociological theories (which often leave him scratching his head). In his spare time, he enjoys exploring Zen Buddhism (don't worry, he's just bragging). 
 
 However, above all else, he is the proud owner of a Shiba Inu named Nai Cha, and he once had a Chinese village dog named Duo Duo. Indeed, nothing is more important to him than these furry companions.
+
+<img src="/assets/img/fahuajing.JPG" align = "middle" width ="800px">
