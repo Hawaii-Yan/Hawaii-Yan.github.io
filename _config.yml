@@ -120,8 +120,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Literature Sharing & Writing # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: 万千微尘纷坠心田 # blog_name will be displayed in your blog page
+blog_nav_title: asterism # your blog must have a title for it to be displayed in the nav bar
 blog_description: 言语道断，心行处灭。
 permalink: /blog/:year/:title/
 
@@ -263,7 +263,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['Computational narrative', 'Political economics', 'Literary', 'Code'] # these tags will be displayed on the front page of your blog
+display_tags: ['Political economics', 'Literary', 'Code'] # these tags will be displayed on the front page of your blog
 display_categories: ['Sharing of Literature'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
