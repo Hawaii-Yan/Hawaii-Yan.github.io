@@ -15,32 +15,13 @@
       institution: Nanjing University,Jiangsu,China
       year: 2023-2026
       description:
-        - Description Computational Communication
+        - Computational Communication
     - title: bachelor
       institution: State Secrets
       year: 2018-2022
       description:
         - 人生已多风雨，往事不要再提。
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
 
 - title: Open Source Projects
@@ -48,32 +29,14 @@
   contents:
     - title: <a href="https://hawaii-yan.github.io/">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+      description: My warm dog's nest.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - 傻孩子，还不快跑。
 
 - title: Other Interests
   type: list
   contents:
-    - Hobbies: Calligraphy, Travel, Guitar, Hitchcock, Agatha Christie, etc.
+    - <u>Hobbies:<u> Calligraphy, Travel,  Guitar, Hitchcock, Agatha Christie, etc.
