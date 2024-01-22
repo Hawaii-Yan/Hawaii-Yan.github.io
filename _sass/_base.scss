@@ -471,7 +471,6 @@ footer.sticky-bottom {
 
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
-  font face="ShaMengHaiShuFaZiTi-1";
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 3rem;
@@ -479,6 +478,7 @@ footer.sticky-bottom {
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+    font face="ShaMengHaiShuFaZiTi-1";
   }
 }
 
