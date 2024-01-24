@@ -27,4 +27,4 @@ His primary research focus lies in computational narrative and sociological theo
 
 However, above all else, he is the proud owner of a Shiba Inu named Nai Cha, and he once had a Chinese village dog named Duo Duo. Indeed, nothing is more important to him than these furry companions.
 
-<img src="/assets/img/fahuajing.jpg" align = "middle" width ="800px">
+<img src="/assets/img/erhai.jpg" align = "middle" width ="800px">
